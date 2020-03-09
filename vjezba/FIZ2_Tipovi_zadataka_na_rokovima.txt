@@ -1,0 +1,84 @@
+ZIR 2011/12
+
+1. Prisilno titranje
+2. Doppler i zvuèni udari
+3. Odnos frekvencija štapa pri zagrijavanju
+4. Najmanja udaljenost predmeta i slike, leæa
+5. Polarizatori
+6. Compton, valna duljina elektrona
+
+LJIR 2011/12
+
+1. Period prigušenog titranja, logaritamski dekrement
+2. Rezultantni val
+3. Tanki listiæ
+4. Fokus zrcala
+5. Compton, kut fotona i elektrona
+6. Vrijeme poluraspada
+
+JIR 2011/12
+
+1. Fizikalno njihalo
+2. Poyntingov vektor
+3. 2 leæe, naði sliku
+4. Polarizatori
+5. Fotoefekt
+6. Aktivnost i poluraspad
+
+DIR 2011/12
+
+1. Fizikalno njihalo i moment tromosti tijela
+2. Frekvencija vala u plinu
+3. Poveæanje slike u zrcalu
+4. Young
+5. Fotoefekt
+6. Snaga zraèenja
+
+#####################
+
+ZIR 2012/13
+
+1. Horizontalno titranje na opruzi s trenjem
+2. Poyntingov vektor, jednadžbe polja
+3. Energija titranja žice.
+4. Kut raspršenog fotona
+5. Dioptar i zrcalo
+6. Duljina optièkog puta + Young
+
+LJIR 2012/13
+
+1. Prigušeno titranje
+2. Osnovna frekvencija žice preko napetosti
+3. Fizikalno njihalo, štap
+4. 2 leæe, naði sliku
+5. Tanki listiæ
+6. Zraèenje crnog tijela
+
+JIR 2012/13
+
+1. Horizontalno titranje na opruzi s trenjem
+2. Torziono njihalo
+3. Srednja snaga valova, rezultantni val
+4. 2 leæe, naði sliku i poveæanje
+5. Youngov pokus s folijom
+6. Valna duljina elektrona, kvantni brojevi
+
+#####################
+
+ZIR 2013/14
+
+1. Prigušeno titranje
+2. Harmonièki val i interferencija
+3. Elektromagnetizam (magnetsko polje koaksijalnog kabla)
+4. Najmanja udaljenost predmeta i slike, leæa
+5. Zraèenje crnog tijela
+6. Poluraspad
+
+LJIR 2013/14
+
+1. Rezultantni val
+2. Titranje na opruzi, raspon frekvencija
+3. Lorentzova sila na elektron u mag. polju
+4. Razmak fokusa za razlièite valne duljine
+5. Tanki listiæ
+6. Površina crnog tijela
