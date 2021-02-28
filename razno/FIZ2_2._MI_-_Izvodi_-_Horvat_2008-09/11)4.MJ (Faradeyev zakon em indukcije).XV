@@ -1,0 +1,18 @@
+%%HP: T(1);
+"4. MJ (Faradeyev zakon em indukcije)
+
+E = 1/q q*(vê x Bê)
+
+ìi = ß(Eê dlê) = ß(vê x Bê*dlê)
+
+ß(Eê dlê) = Ñ((Ç x Eê) * dS)
+
+Ñ(Ç x Eê * dSê) = vB Ñdl = vBl = Bl dx/dt
+
+Bl dx/dt = d/dt (Blx) = d/dt BS
+
+Ñ(Ç x Eê * dSê) = -D/Dt Ñ(Bê*dSê)
+
+Ç x Eê = - D/Dt Bê
+
+ìi = -d/dt ¯m"

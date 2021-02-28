@@ -1,0 +1,60 @@
+%%HP: T(1);
+"Oerstedov pokus pokazuje da se oko vodica namata magnetsko polje sto se moze pokazati magnetskom iglom.
+Smjer mag. polja odreen je pravilom desne ruke pri cemu palac pokazuje smjer struje, a prsti smjer omatanja m.p.
+
+Lorentzova sila
+-iznos mag. sile Fm proporcionalan je velicini naboja Q i njegovoj brzini
+-iznos mag. sile ovisi o iznosu magnetskog polja
+-smjer magnetske sile okomit je na smjer vektora brzine i na smjer vektora mag. polja
+-smjer mag. sile na pozitivan naboj suprotan je smjeru sile na negativan naboj
+-iznos vektora mag. sile ovisi o kutu ï izmedju smjera brzine i smjera magnetskog polja.
+ Tocnije iznos m.s. proporcionalan je sinusu tog kuta
+
+Fmê = Qvê x Bê
+
+ac = Fm/m = QvB/m
+
+R = mv/qB
+
+Sila na vodic u mag polju
+dFê = (q vdê x Bê)nS dl
+dFê = I dlê x Bê
+
+Fê=ÑAB(dlê x Bê)
+
+Biot-Savartov zakon
+Ako vodicem prolazi el struja I i ako razmatramo komadic vodica dsê koji ujedno pokazuje smjer struje onda je:
+
+-vektor mp dBê okomit na dsê i na jedinicni vektor r^
+ koji pokazuje od djelica ds do tocke u kojoj promatramo i odredjujemo mp dB
+
+-iznos dB je obrnuto proporcijalan kvadratu udaljenosti od komadica dS do tocke u kojoj odredjujemo mag polje
+
+-iznos dB proporcijelan struji i I i duljini ds
+
+-iznos dB ovisi o kutu izmedju dsê i r^, tj. mijenja se iznosom kuta
+
+dBê = µ0/4ú * Idsê x r^/r≤
+
+Bê = µ0I/4ú Ñdsê x r^/r≤
+
+DEFINICIJA AMPERA
+
+Neka dva ravna, parlelna vodica duljine l, razmaknuti za d provode el. struju cija je jakost I1 odnosno I2.
+Svaki vodic ce na mjestu drugog stvoriti mp Bê koje ce djelovati na vodic silom koja je jednaka umnosku magnetskog polja, duljine vodica i struje koja tece kroz vodic.
+
+F=I1 B2 l = I1 l 2µ0I2/(4úd) = 2 µ0/4ú l I1I2/d
+
+HALLOV EFEKT
+
+q * v_d * B = qE_t
+
+E_t = v_d * B
+
+V_h = E_t*h = v_d * B * h
+
+v_d = I / (n0 * q * S)
+
+V_h = I*B*H / (n0 * q * S)
+
+V_h = R_h * I*B*H/S"

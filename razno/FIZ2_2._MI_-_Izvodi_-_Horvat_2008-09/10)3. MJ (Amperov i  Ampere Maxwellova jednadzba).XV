@@ -1,0 +1,32 @@
+%%HP: T(1);
+"AMPEROV ZAKON
+
+ßl(Bê*dlê) = µ0I
+
+ß(Bê dlê) = µ0*Öi(Ii)
+
+ß(Bê dlê) = µ0 ÑS (Jê*dSê)
+
+ßl(Bê*dlê) = ÑS (Ç x BêdSê) = µ0 Ñ(Jê*dSê)
+
+Ç x Bê = µ0 Jê
+
+3. MJ (Ampere-Maxwellov zakon)
+
+ß(Jê*dSê) = 0 = -dq/dt
+
+ÇJ = -D/Dtó
+
+ÇJ = -D/Dt (ì0ÇEê) = -Ç(ì0 DEê/Dt)
+
+ß(Jpê*dSê) = - D/Dt Q -> unutar povrsine
+
+- D/Dt Q -> unutar povrsine = -ì0 D/Dt ß(Eê dSê)
+
+ß(Bê dlê) = µ0 (I-Ip) = µ0 Ñ (Jê-Jpê) dSê
+          
+          = µ0Jê * dSê + µ0ì0 D/Dt Ñ(Eê dSê)
+
+ß(Bê dlê) = µ0 Ñ(Jê*dSê) + µ0ì0 D/Dt Ñ(Eê dSê)
+
+Ç x Bê = µ0Jê + µ0ì0 D/Dt ÑEê"

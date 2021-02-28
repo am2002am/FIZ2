@@ -1,0 +1,32 @@
+%%HP: T(1);
+"1)elektricni naboj je kvantiziran
+2)elektricni naboj je apsolutno sacuvan
+Fê=k*Q1Q2/r≤*r^
+Eê=1/(4áì0)*Q1/r≤*r^
+
+Princip superpozicije
+E_iê=(Öjçi)E_jê
+
+Eê=1/(4áì0)*Q_i/r_i≤*r_i^
+
+Linearni raspored naboja
+Eê=1/(4áì0)Ññ*dl*r^/r≤
+ñ,ò,ó=dQ/dl,dS,dV
+
+Tok elektricnog polja
+dÿ_e=Eê*dSê=Eê*n^dS=E*dS*cos(Eê/n^)=E dS cosï
+ÿ_e=ÑSç Eê*n^dS
+
+1. maxwellova jed. ili Gaussov zakon za el. polje
+
+ÿe = Q / ì0
+
+ßs(Eê dSê) = Q / ì0
+
+ó(rê)= dQ/dV
+
+ßs(Eê dSê) = ÑV(ÇE dV) = ÑV(ó dV/ì0)
+
+Ç*Eê = ó/ì0
+
+"
